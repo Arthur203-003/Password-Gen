@@ -1,3 +1,8 @@
+Projekt ne Python Bootcamp - I
+
+Password Generator (letters, numbers, symbols)
+
+
 1.	Krijojme nje array liste e cila permban shkronja, numra dhe karaktere speciale dhe e quajme: karakteret
 karakteret = list(string.ascii_letters + string.digits + "!@#$%^&*()")
 
